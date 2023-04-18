@@ -33,5 +33,3 @@ In RStudio, go to the lower righthand panel and hit the folder R. This takes you
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-37.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-38.jpg)
 ![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-39.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-40.jpg)
-![](https://github.com/cobriant/tidyverse_illustrated/blob/main/Learning%20the%20Tidyverse-41.jpg)
