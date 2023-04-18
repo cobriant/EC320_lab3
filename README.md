@@ -1,5 +1,7 @@
 # EC320 Lab #3
 
+https://www.youtube.com/watch?v=HJTaCO8EXTc
+
 In this lab, you'll learn about the seven main functions that compose dplyr for answering questions about your dataset.
 
 Please get started on this lab early so you can get your questions answered either on Wednesday afternoon or Friday morning. Both of these will be treated like office hours:
